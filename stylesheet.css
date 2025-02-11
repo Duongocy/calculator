@@ -84,12 +84,7 @@ body {
     justify-items: center;
   }
   .nutnhan {
-    width: 23%;
-    height: 100%;
     font-size: 12px;
     color: #070718;
-    border: 2px #a9ec0c solid;
-    border-radius: 10px;
-    background-color: rgb(5, 243, 132);
   }
 }
