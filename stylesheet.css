@@ -1,0 +1,73 @@
+body {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-content: center;
+}
+.nen {
+  width: 500px;
+  height: 90%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  align-content: center;
+  background-color: #064430;
+  justify-items: center;
+}
+.manhinh {
+  width: 90%;
+  height: 20%;
+  background-color: rgb(255, 255, 255);
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+  align-items: flex-end;
+}
+.congthuc {
+  height: 30%;
+  font-family: "Chakra Petch", serif;
+  font-size: 100%;
+  margin-right: 5px;
+}
+.ketqua {
+  height: 70%;
+  font-size: 30px;
+  font-family: "Chakra Petch", serif;
+  margin-right: 5px;
+}
+.banphim {
+  width: 90%;
+  height: 80%;
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  justify-content: space-between;
+  margin-bottom: 15px;
+  margin-top: 15px;
+}
+.banphim_hang {
+  width: 100%;
+  height: 18%;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  align-items: stretch;
+  margin-top: 5px;
+}
+.nutnhan {
+  width: 23%;
+  height: 100%;
+  font-size: 24px;
+  border: 2px #a9ec0c solid;
+  border-radius: 10px;
+  background-color: rgb(9, 172, 236);
+}
+.nutnhan:hover {
+  background-color: aqua;
+}
+.nutnhan:active {
+  background-color: #3c49f5;
+}
