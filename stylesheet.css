@@ -71,3 +71,16 @@ body {
 .nutnhan:active {
   background-color: #3c49f5;
 }
+@media (max-width: 1200px) {
+  .nen {
+    width: 400px;
+    height: 90%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    align-content: center;
+    background-color: #070718;
+    justify-items: center;
+  }
+}
