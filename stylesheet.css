@@ -94,4 +94,13 @@ body {
     justify-content: end;
     align-items: flex-end;
   }
+  .nutnhan {
+    width: 23%;
+    height: 100%;
+    font-size: 18px;
+    color:#064430;
+    border: 2px #a9ec0c solid;
+    border-radius: 10px;
+    background-color: rgb(9, 172, 236);
+  }
 }
